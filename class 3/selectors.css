@@ -1,0 +1,15 @@
+body{
+    background-image: url(instagram.svg);
+    background-repeat: no-repeat;
+    background-position: 50000;
+}
+h1{
+    background-color: brown;
+}
+#id{
+    background-color: cadetblue;
+}
+.class{
+    background-color: darkgoldenrod;
+    /* background-image: url(instagram.svg); */
+}
