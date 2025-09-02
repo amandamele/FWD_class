@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 520px;
+    width: 520px;
+    background-color:yellow ;
+    display: flex;
+    /* flex-direction: row-reverse; */
+    justify-content: center;
+    /* align-items: center; */
+    /* flex-wrap: wrap; */
+}
+.box{
+    height: 120px;
+    width: 120px;
+    background-color:pink;
+    margin: 2px;
+    float:right;
+    /* margin: auto; */
+    /* flex-wrap: wrap; */
+}
+
+#box1{
+    height: 120px;
+    width: 120px;
+    background-color:pink;
+    margin: 2px;
+    align-self:center;
+}
+
+/* 1 */
